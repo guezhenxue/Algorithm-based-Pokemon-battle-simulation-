@@ -1,5 +1,8 @@
 # FIT1008_S1_2024 - Pokemon
 
+**Brief Explanation**
+This project utilised stack adt, queue adt, circulr queue, sorted list to build classes to examine an algorithm(s)-based attack between instances (pokemons)
+
 #### Basic Premise
 Pokemon
 The titular Pokemon are the backbone of the Pokemon Battles. There are different types of pokemon each with their own names and stats, and one type of pokemon can evolve into another type of pokemon when they level up.
